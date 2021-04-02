@@ -86,7 +86,7 @@ for i in range(0,num_nodes):
 
 ## References
 
-[[Ser-Giacomi et al. 2020]](https://www.nature.com/articles/s41559-018-0587-2) Ser-Giacomi, E.,  (2020). Impact of Climate Change on Surface Stirring and Transport in the Mediterranean Sea. *Geophysical Research Letters*, 47, https://doi.org/10.1029/2020GL089941
+[[Ser-Giacomi et al. 2020]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089941) Ser-Giacomi, E.,  (2020). Impact of Climate Change on Surface Stirring and Transport in the Mediterranean Sea. *Geophysical Research Letters*, 47, https://doi.org/10.1029/2020GL089941
 
 
 
